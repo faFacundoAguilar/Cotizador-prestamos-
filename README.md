@@ -1,0 +1,16 @@
+
+<table>
+    <tr>
+    <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/423bdeac-89bc-409c-a77f-3b15d668366c" alt="Imagen 1" style="width: 100%; height: auto; object-fit: cover;"></td>
+    <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/5015bc25-fc11-4153-86d4-16bb0ce495ff" alt="Imagen 2" style="width: 100%; height: auto; object-fit: cover;"></td>
+  </tr>
+   <tr>
+        <td colspan="2" style="padding: 0;">
+            <img src="https://github.com/user-attachments/assets/f4920fbf-04c1-425e-b519-c614063e7dcd" alt="Banner" style="width: 100%; height: auto; object-fit: cover;">
+        </td>
+    </tr>
+</table>
+
+  ##  💰 **Cotizador de Prestamos**
+Este es un proyecto que brinda un calculo de manera rápida y sencilla del costo total de un préstamo. Este sistema permite ingresar la cantidad solicitada y el plazo deseado,
+calculando automáticamente el interés correspondiente según diferentes rangos de monto y plazos.
