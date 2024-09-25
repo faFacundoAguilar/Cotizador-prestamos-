@@ -12,7 +12,7 @@
   </tr>
    <tr>
         <td colspan="2" style="padding: 0;">
-            <img src="https://github.com/user-attachments/assets/f4920fbf-04c1-425e-b519-c614063e7dcd" alt="Banner" style="width: 100%; height: auto; object-fit: cover;">
+            <img src="https://github.com/user-attachments/assets/b86785e2-9c83-4efa-8415-b40169a2393c" alt="Banner" style="width: 100%; height: auto; object-fit: cover;">
         </td>
     </tr>
 </table>
@@ -24,9 +24,8 @@ calculando automáticamente el interés correspondiente según diferentes rangos
 ## 🛠️ **Tecnologías Utilizadas**
 
 - **JavaScript**: Para la lógica del sistema y la manipulación de datos.
-- **React**: Para la  construccion componentes.
+- **React**: Para la  construccion de componentes.
 - **Tailwind CSS**: Estilos.
 
 
 
-![2024-09-25 (8)](https://github.com/user-attachments/assets/e34b6b40-d5f3-4ccd-9fe4-cfd561d800e9)
