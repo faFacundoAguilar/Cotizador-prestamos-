@@ -18,5 +18,12 @@
 </table>
 
   ##  💰 **Cotizador de Prestamos**
-Este es un proyecto que brinda un calculo de manera rápida y sencilla del costo total de un préstamo. Este sistema permite ingresar la cantidad solicitada y el plazo deseado,
+Este es un proyecto que brinda un calculo de manera rápida y dinamica del costo total de un préstamo. Este sistema permite ingresar la cantidad solicitada y el plazo deseado,
 calculando automáticamente el interés correspondiente según diferentes rangos de monto y plazos.
+
+## 🛠️ **Tecnologías Utilizadas**
+
+- **JavaScript**: Para la lógica del negocio y la manipulación de datos.
+- **React**: Para la  construccion componentes.
+- **Tailwind CSS**: Estilos.
+
