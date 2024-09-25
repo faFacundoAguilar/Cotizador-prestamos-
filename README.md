@@ -1,4 +1,10 @@
-
+<p align="center">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"> 
+   &emsp;    
+  <a> 
+    <img alt="React" src="https://img.shields.io/badge/React%20-%2361DAFB.svg?logo=react&logoColor=black">
+  </a> 
+</p>
 <table>
     <tr>
     <td style="padding: 0; width: 60%;"><img src="https://github.com/user-attachments/assets/423bdeac-89bc-409c-a77f-3b15d668366c" alt="Imagen 1" style="width: 100%; height: auto; object-fit: cover;"></td>
