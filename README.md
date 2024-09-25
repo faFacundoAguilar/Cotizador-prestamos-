@@ -23,7 +23,7 @@ calculando automáticamente el interés correspondiente según diferentes rangos
 
 ## 🛠️ **Tecnologías Utilizadas**
 
-- **JavaScript**: Para la lógica del negocio y la manipulación de datos.
+- **JavaScript**: Para la lógica del sistema y la manipulación de datos.
 - **React**: Para la  construccion componentes.
 - **Tailwind CSS**: Estilos.
 
