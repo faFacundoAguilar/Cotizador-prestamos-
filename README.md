@@ -18,9 +18,7 @@
 </table>
 
   ##  💰 **Cotizador de Prestamos**
-Este es un proyecto que brinda un calculo de manera rápida y dinamica del costo total de un préstamo. Este sistema permite ingresar la cantidad solicitada y el plazo deseado,
-calculando automáticamente el interés correspondiente según diferentes rangos de monto y plazos.
-
+Este proyecto es un un cotizador que brinda un cálculo rápido y dinámico del costo total de un préstamo. El sistema permite ingresar la cantidad solicitada y el plazo deseado, calculando automáticamente el interés correspondiente según diferentes rangos de monto y plazos, simulando la experiencia real de cotización. :)
 ## 🛠️ **Tecnologías Utilizadas**
 
 - **JavaScript**: Para la lógica del sistema y la manipulación de datos.
