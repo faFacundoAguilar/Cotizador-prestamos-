@@ -19,7 +19,7 @@
 
   ##  💰 **Cotizador de Prestamos**
 Este proyecto es un un cotizador que brinda un cálculo rápido y dinámico del costo total de un préstamo. El sistema permite ingresar la cantidad solicitada y el plazo deseado, calculando automáticamente el interés correspondiente según diferentes rangos de monto y plazos que he establecido  simulando la experiencia real de cotización. <br>
-🔗 [Visita el proyecto](https://seashell-newt-114594.hostingersite.com/)
+🔗 [Visita el proyecto](https://indigo-kangaroo-200715.hostingersite.com/)
 
 ## 🛠️ **Tecnologías Utilizadas**
 
